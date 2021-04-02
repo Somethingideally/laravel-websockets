@@ -34,7 +34,7 @@
         "illuminate/routing": "5.7.* || 5.8.* || 6.* || 7.* || 8.*",
         "illuminate/support": "5.7.* || 5.8.* || 6.* || 7.* || 8.*",
         "pusher/pusher-php-server": "~3.0",
-        "symfony/http-kernel": "~4.0",
+        "symfony/http-kernel": "4.* || 5.*",
         "symfony/psr-http-message-bridge": "^1.1"
     },
     "require-dev": {
